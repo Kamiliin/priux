@@ -1,0 +1,167 @@
+
+h1,h2,h3,h4,h5 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+}
+
+p,a, span{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+}
+
+
+
+
+.header{
+    background-color: #3a3a3a;
+    height: 100px;
+    padding: 30px;
+}
+
+.pre-header{
+    background-color: #86be42;
+    color: #ffffff;
+    padding: 35px;
+    text-align: center;
+}
+
+.banner{
+    background-image: url('/asset/img/banner.png');
+    color: #ffffff;
+    height: auto;
+    padding-top: 20px;
+
+
+}
+
+.banner-p{
+    padding-top: 150px ;
+    padding-bottom: 50px ;
+}
+
+.section-1{
+    background-color: #3a3a3a;
+    color: #ffffff;
+    text-align: center;
+    font-size: 20px;
+}
+
+.section-2{
+    color:#000000 ;
+    font-size: 20px;
+    height: 500px;
+}
+
+.section-2-p{
+    padding-top: 50px;
+
+    font-size: 20px;
+    font-weight: 500;
+    text-align: justify;
+}
+
+.margen-verde {
+    border-left: 5px solid #86be42; 
+    padding-left: 20px; 
+  }
+
+  
+.section-3{
+    background-color: #86be42;
+}
+
+
+
+.card{
+    background-color: #7a7a7a;
+    color: #ffffff;
+    height: 185px;
+    width:180px;
+    text-align: center;
+    border-radius: 30px;
+    font-weight: 500;
+    font-size: 15px;
+   
+}
+
+.section-3-img {
+    width: 90px;
+    height: 90px;
+    display: block;
+    margin: 0 auto; 
+  }
+
+
+
+.section-4{
+    font-size: 20px;
+
+
+}
+
+
+  .green-button {
+    background-color: #86be42;
+    color: #fff;
+    padding: 10px 20px;
+    text-decoration: none;
+    display: inline-block;
+    width: 200px;
+   
+  }
+
+  .green-button:hover {
+    background-color: #5d8e31;
+  }
+
+  .bordered-p {
+    border-bottom: 5px solid #86be42; 
+    padding-bottom: 15px; 
+    display: inline-block;
+  }
+
+
+.footer{
+    background-image: url('/asset/img/footer.png');
+    padding: 30px;
+    color: #fff;
+    font-size: 14px;
+}
+
+.bg-green{
+
+    background-color: #86be42;
+
+}
+
+/*agradecimiento*/
+
+.section-1-f{
+    
+    font-size: 20px;
+}
+
+.section-2-f{
+    font-size: 20px;
+
+}
+
+.section-2-f{
+    background-color:#ffffff ;
+    padding: 60px;
+    text-align: center;
+    font-size: 20px;
+
+    
+}
+
+.section--f{
+
+    background-image: url('/asset/img/section-3.png');
+    height: auto;
+    padding: 50px;
+    color: #ffffff;
+    font-size: 20px;
+
+
+}
